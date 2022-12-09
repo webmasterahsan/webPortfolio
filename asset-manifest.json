@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.cf26d16f.css",
+    "main.js": "/react-gh-pages/static/js/main.34736145.js",
+    "static/media/CV_ahsan.pdf": "/react-gh-pages/static/media/CV_ahsan.6aa791d9bdd58a2d86b5.pdf",
+    "static/media/thesis.png": "/react-gh-pages/static/media/thesis.e33dea38e5758fb4d683.png",
+    "static/media/profile.png": "/react-gh-pages/static/media/profile.cac14b7d5ef0dc2d0676.png",
+    "static/media/me.png": "/react-gh-pages/static/media/me.32d2dafde47680961f49.png",
+    "static/media/onlinesports.png": "/react-gh-pages/static/media/onlinesports.4a9534dfd7b6f4808cc1.png",
+    "static/media/snake.png": "/react-gh-pages/static/media/snake.b1b82cdf4f1e0ad9d182.png",
+    "static/media/travelagency.png": "/react-gh-pages/static/media/travelagency.cddbee5cd0608180fcb7.png",
+    "static/media/ebanking paypal.png": "/react-gh-pages/static/media/ebanking paypal.284fadb4ab57d98828b3.png",
+    "static/media/onlinefood.png": "/react-gh-pages/static/media/onlinefood.e7e5c985734f3eeec272.png",
+    "static/media/front_end.png": "/react-gh-pages/static/media/front_end.812102168a97f962b9e3.png",
+    "static/media/back.png": "/react-gh-pages/static/media/back.5b195102c9dd6ccdef93.png",
+    "static/media/club.jpg": "/react-gh-pages/static/media/club.ce0a33e0377e9bd46ee7.jpg",
+    "static/media/Award.jpg": "/react-gh-pages/static/media/Award.a66195d34e215b72bfe8.jpg",
+    "static/media/color.png": "/react-gh-pages/static/media/color.252a10cd3116cac58be5.png",
+    "static/media/liveweather.png": "/react-gh-pages/static/media/liveweather.7c57ef6c2eb671bcb2b3.png",
+    "static/media/emedical.png": "/react-gh-pages/static/media/emedical.b3916d6206ec3bd1fb4f.png",
+    "static/media/datafinance.png": "/react-gh-pages/static/media/datafinance.504651978c2568a241b1.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.cf26d16f.css.map": "/react-gh-pages/static/css/main.cf26d16f.css.map",
+    "main.34736145.js.map": "/react-gh-pages/static/js/main.34736145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf26d16f.css",
+    "static/js/main.34736145.js"
+  ]
+}
